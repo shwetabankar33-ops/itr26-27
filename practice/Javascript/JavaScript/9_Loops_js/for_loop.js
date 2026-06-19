@@ -21,7 +21,7 @@
 // break and continue keywords
 
 
-for(let j=0;j<=9;j++){
+for(let j = 0;j<=9;j++){
     if(j==5){
         break; // breaks loop at 5th
     }
