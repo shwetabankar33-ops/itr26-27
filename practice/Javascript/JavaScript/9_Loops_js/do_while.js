@@ -7,6 +7,6 @@ do{
   total= total + i;
   i++; 
 }
-while(i<=num)
+while(i <=num)
 
 console.log(total);
